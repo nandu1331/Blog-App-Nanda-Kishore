@@ -31,16 +31,11 @@ A modern blog application built with [Next.js 13](https://nextjs.org/) using the
 
 ## Screenshots
 
-![Blog Home Page](./public/screenshots/homepage.png)  
-_Blog homepage featuring a clean layout, search bar, and animated blog post cards._
+![Blog Home Page](https://github.com/user-attachments/assets/9cecbb30-81c5-42d9-8ff4-d4081e641a6c)
 
-![Create Post](./public/screenshots/create-post.png)  
-_Simple, intuitive form to create new blog posts._
+![Create Blog](https://github.com/user-attachments/assets/cfefa60d-4548-43d7-973f-ca1fa882c3cd)
 
-![Post Detail & Edit](./public/screenshots/post-detail.png)  
-_View detailed blog posts with options to update or delete posts._
-
-_Add your own screenshots to the `/public/screenshots` folder and update these paths accordingly._
+![View Blog](https://github.com/user-attachments/assets/72fb778d-befd-4625-b995-afca0f014598)
 
 ## Installation
 
